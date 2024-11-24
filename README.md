@@ -36,7 +36,7 @@ Laptop(1440px)
 </div>
 
 
-### [Test on your machine!](https://)
+### [Test on your machine!](https://advicegenerat0rapp.netlify.app/)
 
 ## Technologies and tools used
 
